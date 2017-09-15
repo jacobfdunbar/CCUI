@@ -286,3 +286,10 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+#DLLs
+*.dll
+
+#Extra VS stuff
+*.vcxproj
+*.filters
